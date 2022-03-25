@@ -1,0 +1,568 @@
+﻿S.No,District,Institution,Beds Total,Beds Occupied,BedsVacant,OXYGEN SUPPORTED BEDSTotal,OXYGEN SUPPORTED BEDSOccupied,OXYGEN SUPPORTED BEDSVacant,NON-OXYGEN SUPPORTED BEDSTotal,NON-OXYGEN SUPPORTED BEDSOccupied,NON-OXYGEN SUPPORTED BEDS Vacant,ICU BEDS Total,ICU BEDS Occupied,ICU BEDS Vacant,VENTILATOR Total,VENTILATOR Occupied,VENTILATOR Vacant,Last Updated,Date
+,Ariyalur,A.S Hospital,30,29,1,8,8,0,12,12,0,10,9,1,2,2,0,12-05-2021 09:36,June 2 2021
+2,Ariyalur,Golden Hospital,31,30,1,23,23,0,3,2,1,5,5,0,5,5,0,12-05-2021 10:10,June 2 2021
+3,Chengalpattu,Annai Arul Hospital,40,40,0,30,30,0,5,5,0,5,5,0,3,3,0,12-05-2021 10:35,June 2 2021
+4,Chengalpattu,Chennai Emergency care Centre Pammal,16,16,0,11,11,0,4,4,0,1,1,0,1,1,0,12-05-2021 09:24,June 2 2021
+5,Chengalpattu,Dr. Rela Institute,160,160,0,130,130,0,0,0,0,30,30,0,10,10,0,12-05-2021 08:36,June 2 2021
+6,Chengalpattu,"Sudar Hospitals, Hasthinapuram",41,41,0,32,32,0,0,0,0,9,9,0,6,6,0,24-05-2021 19:04,June 2 2021
+7,Chengalpattu,"Sugam Hospital, Chromepet",45,42,3,23,22,1,12,10,2,10,10,0,10,10,0,02-06-2021 08:05,June 2 2021
+8,Chengalpattu,"Deepam Hospitals, West Tambaram",60,38,22,50,33,17,10,5,5,0,0,0,0,0,0,02-06-2021 08:25,June 2 2021
+9,Chennai,"Apollo Hospital, Greams Road",303,303,0,177,177,0,15,15,0,111,111,0,111,111,0,15-05-2021 11:12,June 2 2021
+10,Chennai,"Apollo Hospitals, Vanagaram",150,135,15,115,110,5,10,0,10,25,25,0,14,14,0,02-06-2021 10:39,June 2 2021
+11,Chennai,Appasamy Hospital,86,32,54,79,27,52,0,0,0,7,5,2,2,2,0,02-06-2021 10:21,June 2 2021
+12,Chennai,"ArunVijaya Hospitals, KK Nagar",21,21,0,6,6,0,9,9,0,6,6,0,2,2,0,12-05-2021 08:13,June 2 2021
+13,Chennai,Astra Ortho N Spine Care Hospital,20,14,6,14,10,4,2,0,2,4,4,0,1,1,0,27-05-2021 11:19,June 2 2021
+14,Chennai,Aysha Hospital,30,30,0,6,6,0,17,17,0,7,7,0,0,0,0,12-05-2021 10:19,June 2 2021
+15,Chennai,Be Well Hospital Anna nagar,25,25,0,2,2,0,20,20,0,3,3,0,2,2,0,12-05-2021 08:04,June 2 2021
+16,Chennai,Bhaarath medical college and hospital,160,160,0,50,50,0,50,50,0,60,60,0,7,7,0,12-05-2021 18:46,June 2 2021
+17,Chennai,Bharathiraja Hospital & Research Centre Pvt Ltd,85,85,0,70,70,0,5,5,0,10,10,0,2,2,0,24-05-2021 08:06,June 2 2021
+18,Chennai,"Billroth Hospitals Shenoy Nagar, Chennai TN.",175,175,0,130,130,0,25,25,0,20,20,0,2,2,0,12-05-2021 19:53,June 2 2021
+19,Chennai,"Bloom Fertility and Healthcare, Velachery",20,20,0,4,4,0,16,16,0,0,0,0,0,0,0,27-05-2021 14:38,June 2 2021
+20,Chennai,C.s.i Rainy Multi Speciality Hospital Tondaiarpet,12,12,0,10,10,0,0,0,0,2,2,0,1,1,0,12-05-2021 08:51,June 2 2021
+21,Chennai,Chennai Orthopedic Centre -ER,24,24,0,24,24,0,0,0,0,0,0,0,0,0,0,12-05-2021 08:05,June 2 2021
+22,Chennai,Chettinad Hospital,525,525,0,345,345,0,140,140,0,40,40,0,10,10,0,12-05-2021 14:50,June 2 2021
+23,Chennai,CSI Kalyani General Hospital,110,102,8,40,40,0,60,52,8,10,10,0,3,3,0,02-06-2021 10:18,June 2 2021
+24,Chennai,Dr.Kamakshi Memorial Hospital,100,100,0,85,85,0,0,0,0,15,15,0,10,10,0,02-06-2021 09:10,June 2 2021
+25,Chennai,Fortis Malar Hospital,62,62,0,47,47,0,0,0,0,15,15,0,15,15,0,17-05-2021 10:07,June 2 2021
+26,Chennai,Frontier Lifeline Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,09-05-2021 08:57,June 2 2021
+27,Chennai,Girishwari Hospital Alwarpet,47,47,0,43,43,0,0,0,0,4,4,0,0,0,0,12-05-2021 09:47,June 2 2021
+28,Chennai,GKM Hospital Pvt Ltd,50,50,0,35,35,0,4,4,0,11,11,0,4,4,0,11-05-2021 22:52,June 2 2021
+29,Chennai,GLB Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02-06-2021 09:49,June 2 2021
+30,Chennai,Gleneagles Global Health City,99,99,0,38,38,0,19,19,0,42,42,0,10,10,0,11-05-2021 11:19,June 2 2021
+31,Chennai,Gunasekaran Hospitals Pvt Ltd,22,22,0,0,0,0,18,18,0,4,4,0,1,1,0,12-05-2021 09:30,June 2 2021
+32,Chennai,Hycare Super Speciality Hospital,77,67,10,35,35,0,37,27,10,5,5,0,3,2,1,12-05-2021 16:15,June 2 2021
+33,Chennai,"K.P Hospital, Adambakkam",18,12,6,12,12,0,6,0,6,0,0,0,0,0,0,19-05-2021 10:13,June 2 2021
+34,Chennai,Kanchi Kamakoti Child Trust Hospital,17,17,0,12,12,0,0,0,0,5,5,0,2,1,1,13-05-2021 09:23,June 2 2021
+35,Chennai,Karpaga Vinayaga Medical Science & Ri,285,141,144,70,70,0,211,67,144,4,4,0,4,4,0,12-05-2021 17:31,June 2 2021
+36,Chennai,Kauvery Hospital,100,100,0,40,40,0,40,40,0,20,20,0,10,10,0,20-05-2021 09:51,June 2 2021
+37,Chennai,Kumaran Hospital Pvt ltd,75,75,0,62,62,0,0,0,0,13,13,0,6,6,0,12-05-2021 09:25,June 2 2021
+38,Chennai,"KVT Speciality Hospital, Erukanchery",24,24,0,16,16,0,0,0,0,8,8,0,1,0,1,17-05-2021 09:49,June 2 2021
+39,Chennai,Laksha Hospital Royapettah,48,48,0,14,14,0,25,25,0,9,9,0,2,2,0,28-05-2021 09:47,June 2 2021
+40,Chennai,Life Care Hospital,25,25,0,15,15,0,5,5,0,5,5,0,2,2,0,21-05-2021 18:52,June 2 2021
+41,Chennai,Lifeline Hospitals,50,50,0,15,15,0,25,25,0,10,10,0,2,2,0,31-05-2021 10:48,June 2 2021
+42,Chennai,M G M Health Care Pvt Ltd,110,110,0,0,0,0,88,88,0,22,22,0,22,22,0,12-05-2021 11:09,June 2 2021
+43,Chennai,M.R Hospital,15,14,1,13,12,1,0,0,0,2,2,0,2,2,0,12-05-2021 10:25,June 2 2021
+44,Chennai,Maya Nursing Home,40,40,0,15,15,0,20,20,0,5,5,0,4,4,0,24-05-2021 08:33,June 2 2021
+45,Chennai,Medway Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-05-2021 13:43,June 2 2021
+46,Kancheepuram,Meenakshi Medical College,110,90,20,45,45,0,59,39,20,6,6,0,4,4,0,12-05-2021 13:07,June 2 2021
+47,Chennai,Melmaruvathur Aadhiparasakthi Medical College,375,363,12,125,125,0,150,138,12,100,100,0,32,32,0,25-05-2021 07:02,June 2 2021
+48,Chennai,Mint Hospital,30,30,0,22,22,0,4,4,0,4,4,0,2,2,0,15-05-2021 09:21,June 2 2021
+49,Chennai,Miot Hospital,300,277,23,70,70,0,197,174,23,33,33,0,10,10,0,14-05-2021 09:19,June 2 2021
+50,Chennai,MMRV Hospital,50,50,0,20,20,0,0,0,0,30,30,0,4,4,0,12-05-2021 07:35,June 2 2021
+51,Chennai,Muthu hospital,55,55,0,25,25,0,20,20,0,10,10,0,2,0,2,13-05-2021 09:42,June 2 2021
+52,Chennai,National Hospital,100,100,0,90,90,0,0,0,0,10,10,0,4,4,0,12-05-2021 07:37,June 2 2021
+53,Chennai,"New Hope Multi Speciality Hospital, Kilpauk",20,20,0,20,20,0,0,0,0,0,0,0,0,0,0,09-05-2021 07:07,June 2 2021
+54,Chennai,"Medway Hospital,Mugappair",30,30,0,26,26,0,0,0,0,4,4,0,2,2,0,12-05-2021 13:42,June 2 2021
+55,Chennai,New Lifemed Hospital,45,45,0,15,15,0,26,26,0,4,4,0,1,1,0,15-05-2021 09:33,June 2 2021
+56,Chennai,Noble Hospital,70,70,0,40,40,0,20,20,0,10,10,0,2,2,0,20-05-2021 08:59,June 2 2021
+57,Chennai,Orthomed Hospital,70,70,0,55,55,0,0,0,0,15,15,0,3,3,0,12-05-2021 09:24,June 2 2021
+58,Chennai,Padmini Nursing Home Chetpet,40,40,0,15,15,0,20,20,0,5,5,0,1,1,0,18-05-2021 08:47,June 2 2021
+59,Chennai,Panimalar Medical College & Hospital,110,110,0,40,40,0,60,60,0,10,10,0,3,3,0,12-05-2021 09:50,June 2 2021
+60,Chennai,Prashanth Hospital,120,120,0,95,95,0,0,0,0,25,25,0,10,10,0,12-05-2021 16:46,June 2 2021
+61,Chennai,"Rama Rau Polyclinc, Kilpauk",19,19,0,19,19,0,0,0,0,0,0,0,0,0,0,07-05-2021 07:04,June 2 2021
+62,Chennai,"Retteri Sri Kumaran Health Centre (P) Ltd, Kolathur",30,30,0,30,30,0,0,0,0,0,0,0,2,2,0,02-06-2021 08:50,June 2 2021
+63,Chennai,RPS hospital pvt ltd,40,40,0,28,28,0,10,10,0,2,2,0,2,2,0,11-05-2021 10:11,June 2 2021
+64,Chennai,"Sai Speed Hospital, Arumbakkam",11,11,0,9,9,0,0,0,0,2,2,0,2,2,0,15-05-2021 17:07,June 2 2021
+65,Chennai,Sakthi Hospital Research Centre Triplicane,80,75,5,26,26,0,46,41,5,8,8,0,2,2,0,12-05-2021 10:05,June 2 2021
+66,Chennai,Saveetha Medical College,500,487,13,250,250,0,200,187,13,50,50,0,30,30,0,12-05-2021 09:36,June 2 2021
+67,Chennai,SIMS Hospital Vadapalani,332,332,0,140,140,0,160,160,0,32,32,0,20,20,0,12-05-2021 11:56,June 2 2021
+68,Chennai,"Sivam Hospitals, Ullagaram",25,13,12,10,5,5,10,5,5,5,3,2,3,3,0,25-05-2021 14:25,June 2 2021
+69,Chennai,Sooriya Hospital,75,75,0,63,63,0,0,0,0,12,12,0,5,5,0,12-05-2021 09:38,June 2 2021
+70,Chennai,Sree Balaji Medical College & Hospital,200,183,17,70,70,0,115,98,17,15,15,0,15,15,0,19-05-2021 09:39,June 2 2021
+71,Chennai,Sree Lakshmi Clinic and Maternity Centre,18,18,0,14,14,0,0,0,0,4,4,0,2,0,2,12-05-2021 12:16,June 2 2021
+72,Chennai,"Sri Ramachandra Medical College Hospital, Porur",300,241,59,230,201,29,30,0,30,40,40,0,26,26,0,01-06-2021 09:12,June 2 2021
+73,Chennai,Sri Sathya Sai Medical College & Research Institue,345,29,316,19,19,0,316,0,316,10,10,0,10,10,0,14-05-2021 14:51,June 2 2021
+74,Chennai,Srinivas Priya Hospital Perambur,18,13,5,14,9,5,0,0,0,4,4,0,1,1,0,02-06-2021 10:36,June 2 2021
+75,Chennai,Srinivasan Rajalakshmi Memorial Hospital,36,36,0,28,28,0,2,2,0,6,6,0,1,1,0,23-05-2021 07:48,June 2 2021
+76,Chennai,Srm Medical College & Hospital,381,214,167,150,139,11,211,55,156,20,20,0,7,7,0,13-05-2021 09:36,June 2 2021
+77,Chennai,St. Thomas Hospital,77,77,0,15,15,0,52,52,0,10,10,0,6,6,0,12-05-2021 15:54,June 2 2021
+78,Chennai,Sundaram Medical Foundation,24,24,0,19,19,0,0,0,0,5,5,0,5,5,0,13-05-2021 08:59,June 2 2021
+79,Chennai,Tagore Medical College & Hospital,410,76,334,45,45,0,349,15,334,16,16,0,7,7,0,02-06-2021 09:11,June 2 2021
+80,Chennai,"The Guest Hospital, Kilpauk",25,20,5,16,16,0,5,0,5,4,4,0,2,2,0,01-06-2021 09:21,June 2 2021
+81,Chennai,Tosh Hospitals Pvt Ltd,30,30,0,26,26,0,4,4,0,0,0,0,0,0,0,12-05-2021 08:49,June 2 2021
+82,Chennai,Trinity Acute care Hospital,24,24,0,20,20,0,0,0,0,4,4,0,4,4,0,12-05-2021 12:48,June 2 2021
+83,Chennai,"Vasantha Subramanian Hospitals Pvt Ltd, Chetpet",49,49,0,33,33,0,10,10,0,6,6,0,6,6,0,19-05-2021 13:47,June 2 2021
+84,Chennai,Venkateswara Hospital,120,120,0,100,100,0,0,0,0,20,20,0,10,10,0,12-05-2021 20:15,June 2 2021
+85,Chennai,"Vhs, Adayar",70,70,0,46,46,0,0,0,0,24,24,0,11,11,0,15-05-2021 13:44,June 2 2021
+86,Chennai,Vihaa Hospital Anna Nagar,24,24,0,24,24,0,0,0,0,0,0,0,0,0,0,14-05-2021 07:48,June 2 2021
+87,Chennai,Vijaya Group Of Hospital,151,151,0,140,140,0,0,0,0,11,11,0,6,6,0,12-05-2021 09:38,June 2 2021
+88,Chennai,Sims (Srm Institutes For Medical Science Hospital) Nungumbakkam,75,75,0,67,67,0,0,0,0,8,8,0,6,6,0,11-05-2021 10:31,June 2 2021
+89,Chennai,"KMS Health Centre Pvt Ltd,Selaiyur",30,30,0,27,27,0,0,0,0,3,3,0,0,0,0,21-05-2021 10:22,June 2 2021
+90,Chennai,Nichani Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-05-2021 16:12,June 2 2021
+91,Chennai,Dr.Metha hospital Chetpet,62,62,0,56,56,0,0,0,0,6,6,0,2,2,0,12-05-2021 09:07,June 2 2021
+92,Coimbatore,G. Kuppusamy Naidu Hospital,261,153,108,140,140,0,108,0,108,13,13,0,1,1,0,12-05-2021 16:05,June 2 2021
+93,Coimbatore,"Hindusthan Hospital, Udaiyampalayam",70,55,15,46,46,0,20,5,15,4,4,0,0,0,0,12-05-2021 09:57,June 2 2021
+94,Coimbatore,Karpagam Faculty Medical College And Hospital,325,273,52,70,68,2,230,180,50,25,25,0,25,25,0,02-06-2021 10:14,June 2 2021
+95,Coimbatore,KG Hospital,127,127,0,102,102,0,0,0,0,25,25,0,25,25,0,12-05-2021 10:27,June 2 2021
+96,Coimbatore,Kongunad Hospital,295,293,2,165,165,0,100,98,2,30,30,0,20,20,0,02-06-2021 10:02,June 2 2021
+97,Coimbatore,Kovai Medical College Hospital,502,502,0,212,212,0,245,245,0,45,45,0,28,28,0,20-05-2021 17:44,June 2 2021
+98,Coimbatore,One Care Medical Centre,58,58,0,41,41,0,0,0,0,17,17,0,4,4,0,15-05-2021 08:28,June 2 2021
+99,Coimbatore,"PSG Institute Of Medical Sciences and Research, Coimbatore",470,470,0,180,180,0,245,245,0,45,45,0,25,25,0,31-05-2021 09:38,June 2 2021
+100,Coimbatore,Royal Care Super Speciality Hospital,100,100,0,94,94,0,0,0,0,6,6,0,3,3,0,13-05-2021 07:17,June 2 2021
+101,Coimbatore,Royal Care Super Speciality Hospital Gandhipuram,4,4,0,4,4,0,0,0,0,0,0,0,0,0,0,13-05-2021 07:18,June 2 2021
+102,Coimbatore,Sri Ramakrishna Hospital,252,242,10,190,190,0,57,47,10,5,5,0,5,5,0,02-06-2021 09:03,June 2 2021
+103,Coimbatore,"KMCH Kovilampalayam Hospital, Sathy Road",50,50,0,50,50,0,0,0,0,0,0,0,0,0,0,12-05-2021 10:03,June 2 2021
+104,Cuddalore,"NLCIL Hospital,Neyveli",226,211,15,92,92,0,114,99,15,20,20,0,2,2,0,14-05-2021 09:09,June 2 2021
+105,Dindigul,Christian Fellow Community Centre,74,24,50,7,7,0,67,17,50,0,0,0,0,0,0,22-05-2021 16:00,June 2 2021
+106,Dindigul,Christian Fellowship Hospital,88,88,0,0,0,0,88,88,0,0,0,0,0,0,0,27-05-2021 08:26,June 2 2021
+107,Dindigul,Leonard Hospital,100,46,54,10,10,0,90,36,54,0,0,0,0,0,0,02-06-2021 08:39,June 2 2021
+108,Dindigul,St.Joseph Hospital,100,60,40,5,5,0,95,55,40,0,0,0,1,0,1,13-05-2021 17:06,June 2 2021
+109,Dindigul,Vel Multispeciality Hospital,50,50,0,20,20,0,20,20,0,10,10,0,4,4,0,02-06-2021 08:03,June 2 2021
+110,Erode,Erode Medical Centre,60,60,0,31,31,0,25,25,0,4,4,0,2,0,2,12-05-2021 17:09,June 2 2021
+111,Erode,Maaruthi Medical Centre And Hospital,10,0,10,4,0,4,3,0,3,3,0,3,1,0,1,12-05-2021 18:06,June 2 2021
+112,Erode,Sudha Hospital,200,200,0,100,100,0,80,80,0,20,20,0,12,12,0,12-05-2021 16:47,June 2 2021
+113,Kallakurichi,Annai Medical Centre,25,25,0,19,19,0,4,4,0,2,2,0,4,0,4,12-05-2021 08:37,June 2 2021
+114,Kallakurichi,E.S. Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-05-2021 09:49,June 2 2021
+115,Kallakurichi,I Med Super Speciality Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20-05-2021 15:10,June 2 2021
+116,Kallakurichi,Lotus Paediatric Emergency Centre,30,19,11,10,10,0,15,4,11,5,5,0,0,0,0,12-05-2021 09:34,June 2 2021
+117,Kallakurichi,Maragadam Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-05-2021 09:49,June 2 2021
+118,Kallakurichi,S A Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-05-2021 08:32,June 2 2021
+119,Kallakurichi,Sri Sanjeevi Hospital,86,86,0,58,58,0,13,13,0,15,15,0,9,9,0,12-05-2021 09:00,June 2 2021
+120,Kancheepuram,Bon Secuors Hospital,30,15,15,5,5,0,25,10,15,0,0,0,0,0,0,12-05-2021 08:57,June 2 2021
+121,Kancheepuram,Chennai Urology & Robotics Institute Hospital Thoraippakkam,56,56,0,50,50,0,0,0,0,6,6,0,2,2,0,31-05-2021 10:05,June 2 2021
+122,Kancheepuram,Madha Medical College&Research Institute,550,52,498,10,10,0,534,36,498,6,6,0,2,2,0,31-05-2021 12:14,June 2 2021
+123,Kancheepuram,Sri Muthukumaran Medical College,314,6,308,0,0,0,314,6,308,0,0,0,6,0,6,20-05-2021 08:57,June 2 2021
+124,Kancheepuram,Apollo Medical Centre Karapakkam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,02-06-2021 10:16,June 2 2021
+125,Kanyakumari,Bensam Hospital,65,65,0,44,44,0,20,20,0,1,1,0,1,0,1,12-05-2021 15:04,June 2 2021
+126,Kanyakumari,C.S.I.MISSION HOSPITAL,113,37,76,40,0,40,68,34,34,5,3,2,3,3,0,12-05-2021 15:06,June 2 2021
+127,Kanyakumari,Dr. Jayasekaran Medical Trust Hospital,120,120,0,62,62,0,38,38,0,20,20,0,6,6,0,12-05-2021 15:12,June 2 2021
+128,Kanyakumari,Sree Mookambika Institute of Medical Sciences,180,49,131,75,0,75,95,49,46,10,0,10,10,0,10,12-05-2021 16:28,June 2 2021
+129,Kanyakumari,Vasantham Health Centre,100,92,8,50,50,0,33,25,8,17,17,0,6,2,4,30-05-2021 15:36,June 2 2021
+130,Karur,Amaravathi Hospital,59,59,0,10,10,0,42,42,0,7,7,0,2,2,0,12-05-2021 15:01,June 2 2021
+131,Karur,"Apollo Logo Hospital,Karur",25,25,0,12,12,0,11,11,0,2,2,0,2,2,0,26-05-2021 10:21,June 2 2021
+132,Krishnagiri,Chandrasekara Hospital,50,44,6,45,40,5,1,0,1,4,4,0,0,0,0,01-06-2021 10:44,June 2 2021
+133,Krishnagiri,"Kauvery Hospital, Hosur",100,100,0,95,95,0,0,0,0,5,5,0,0,0,0,02-06-2021 09:49,June 2 2021
+134,Madurai,Apollo Hospital,125,125,0,101,101,0,0,0,0,24,24,0,4,4,0,12-05-2021 16:36,June 2 2021
+135,Madurai,Bharathi Hospital,25,25,0,5,5,0,10,10,0,10,10,0,3,3,0,12-05-2021 06:39,June 2 2021
+136,Madurai,Devadoss Multispeciality Hospital,80,27,53,45,16,29,25,1,24,10,10,0,4,4,0,02-06-2021 08:51,June 2 2021
+137,Madurai,Guru Multispeciality Hospital,103,92,11,36,36,0,51,40,11,16,16,0,4,4,0,12-05-2021 16:32,June 2 2021
+138,Madurai,"Harshini Hospital,Sathamangalam",40,40,0,30,30,0,10,10,0,0,0,0,0,0,0,13-05-2021 06:42,June 2 2021
+139,Madurai,"Harshitha Hospital, Avaniyapuram",75,70,5,55,55,0,10,5,5,10,10,0,2,2,0,12-05-2021 16:25,June 2 2021
+140,Madurai,Lakshmana Multispeciality Hospital,50,46,4,25,25,0,10,6,4,15,15,0,2,2,0,12-05-2021 08:07,June 2 2021
+141,Madurai,Meenakshi Mission Hospital and Research Centre,214,193,21,68,68,0,106,85,21,40,40,0,6,6,0,12-05-2021 16:26,June 2 2021
+142,Madurai,Rahavendhar Hospital,50,50,0,12,12,0,29,29,0,9,9,0,2,2,0,12-05-2021 07:24,June 2 2021
+143,Madurai,Saravana Hospital,70,70,0,24,24,0,25,25,0,21,21,0,4,4,0,12-05-2021 16:17,June 2 2021
+144,Madurai,Shenbagam Hospitals Pvt Ltd.,40,33,7,36,30,6,0,0,0,4,3,1,3,0,3,12-05-2021 08:37,June 2 2021
+145,Madurai,"Sumathi Hospital & Fertility Center,Anna Nagar",18,18,0,15,15,0,1,1,0,2,2,0,1,0,1,12-05-2021 08:22,June 2 2021
+146,Madurai,"Thembavani Hospital,Gnanaolipuram",25,25,0,5,5,0,17,17,0,3,3,0,1,1,0,12-05-2021 12:52,June 2 2021
+147,Madurai,Vadamalayan Hospital,91,91,0,84,84,0,0,0,0,7,7,0,4,4,0,12-05-2021 16:24,June 2 2021
+148,Madurai,Velammal Medical College Hospital and Research Institute,200,148,52,70,58,12,100,60,40,30,30,0,15,1,14,12-05-2021 09:56,June 2 2021
+149,Mayiladuthurai,Cahoj Hospital,20,17,3,10,10,0,10,7,3,0,0,0,0,0,0,29-05-2021 09:03,June 2 2021
+150,Mayiladuthurai,Ram Bone And Joint Hospial,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21-04-2021 08:42,June 2 2021
+151,Mayiladuthurai,Shanthi Nursing Home,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21-04-2021 08:35,June 2 2021
+152,Namakkal,Aravinth Hospital,38,33,5,12,12,0,22,17,5,4,4,0,4,4,0,18-05-2021 10:36,June 2 2021
+153,Namakkal,M.M.Hospital,75,75,0,66,66,0,4,4,0,5,5,0,4,4,0,14-05-2021 07:16,June 2 2021
+154,Namakkal,Maharaja Speciality Hospital,35,35,0,26,26,0,5,5,0,4,4,0,2,2,0,18-05-2021 07:01,June 2 2021
+155,Namakkal,Thangam Hospital,50,50,0,24,24,0,16,16,0,10,10,0,1,1,0,12-05-2021 17:29,June 2 2021
+156,Namakkal,Vivekanandha Medical Care Hospital,110,105,5,30,30,0,70,65,5,10,10,0,10,10,0,13-05-2021 07:26,June 2 2021
+157,TheNilgiris,Ashwini Gudalur Tribal Hospital,21,17,4,4,0,4,17,17,0,0,0,0,0,0,0,12-05-2021 15:39,June 2 2021
+158,TheNilgiris,Nankam Hospital,30,21,9,15,15,0,10,1,9,5,5,0,1,0,1,23-05-2021 09:28,June 2 2021
+159,TheNilgiris,Sagayamatha Hospital,16,12,4,2,2,0,14,10,4,0,0,0,0,0,0,02-06-2021 09:20,June 2 2021
+160,Perambalur,Amma Hospital Thuraimangalam,5,0,5,0,0,0,5,0,5,0,0,0,0,0,0,12-05-2021 08:42,June 2 2021
+161,Perambalur,Aruptha Multispeciality Hospital,7,0,7,0,0,0,7,0,7,0,0,0,0,0,0,12-05-2021 12:48,June 2 2021
+162,Perambalur,Devi Hospital Elambalur,8,0,8,0,0,0,8,0,8,0,0,0,0,0,0,12-05-2021 12:46,June 2 2021
+163,Perambalur,Dhanalakshmisrinivasan Medical College And Hospital,375,201,174,90,90,0,255,81,174,30,30,0,10,10,0,17-05-2021 10:02,June 2 2021
+164,Perambalur,Dr. Venkatesan Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11-05-2021 10:08,June 2 2021
+165,Perambalur,Lakshmi Nursing Home,25,15,10,5,5,0,20,10,10,0,0,0,0,0,0,12-05-2021 08:25,June 2 2021
+166,Perambalur,Madhu Hospital,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,12-05-2021 10:03,June 2 2021
+167,Perambalur,Niranjan Nursing Home,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11-05-2021 10:09,June 2 2021
+168,Perambalur,Pedro Nursing Home,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11-05-2021 10:08,June 2 2021
+169,Perambalur,Ramasamy Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-05-2021 10:04,June 2 2021
+170,Perambalur,Siva Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-05-2021 12:45,June 2 2021
+171,Perambalur,SPT Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-05-2021 12:46,June 2 2021
+172,Pudukkottai,Muthu Meenakshi Hospitals,60,27,33,25,18,7,20,9,11,15,0,15,3,0,3,12-05-2021 15:58,June 2 2021
+173,Ramanathapuram,Aasi Multi Speciality Hospital,60,33,27,53,33,20,0,0,0,7,0,7,1,0,1,13-05-2021 08:25,June 2 2021
+174,Ramanathapuram,Kanagamani Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26-04-2021 09:09,June 2 2021
+175,Ramanathapuram,Vel Hospital Ramanathapuram,45,45,0,30,30,0,0,0,0,15,15,0,2,0,2,13-05-2021 08:15,June 2 2021
+176,Salem,Annapoorna Medical College and Hospital,124,111,13,29,29,0,90,77,13,5,5,0,3,3,0,20-05-2021 09:30,June 2 2021
+177,Salem,Dharan Hospital,166,166,0,86,86,0,72,72,0,8,8,0,2,2,0,12-05-2021 10:42,June 2 2021
+178,Salem,"Kauvery Hospital, Salem",150,150,0,50,50,0,86,86,0,14,14,0,10,10,0,02-06-2021 10:21,June 2 2021
+179,Salem,Kurinji Hospital,125,125,0,75,75,0,20,20,0,30,30,0,10,10,0,16-05-2021 08:47,June 2 2021
+180,Salem,Manipal Hospital,46,46,0,41,41,0,0,0,0,5,5,0,2,0,2,14-05-2021 10:34,June 2 2021
+181,Salem,Priyam Speciality Hospitals,100,100,0,80,80,0,0,0,0,20,20,0,7,4,3,13-05-2021 10:29,June 2 2021
+182,Salem,Shanmuga Hospital Cancer Institute,75,75,0,30,30,0,20,20,0,25,25,0,2,2,0,12-05-2021 18:52,June 2 2021
+183,Salem,SKS Hospital,110,110,0,55,55,0,35,35,0,20,20,0,0,0,0,12-05-2021 18:53,June 2 2021
+184,Salem,Sri Gokulam Hospital,108,108,0,29,29,0,75,75,0,4,4,0,4,4,0,12-05-2021 11:52,June 2 2021
+185,Salem,Vinayaka Mission Super Specialty Hospitals Pvt Ltd,80,65,15,24,22,2,47,42,5,9,1,8,2,0,2,12-05-2021 09:54,June 2 2021
+186,Salem,Vinyaga Mission Kirubanandha Variyar Medical College Hospital,210,210,0,45,45,0,155,155,0,10,10,0,5,5,0,12-05-2021 09:57,June 2 2021
+187,Sivagangai,Kauvery Hospital Karaikudi,65,65,0,55,55,0,0,0,0,10,10,0,4,0,4,30-05-2021 11:36,June 2 2021
+188,Thanjavur,KG Multi Speciality Hospital,86,73,13,36,33,3,16,8,8,34,32,2,12,12,0,28-05-2021 08:47,June 2 2021
+189,Thanjavur,Meenakshi Multispeciality Hospital,145,145,0,50,50,0,65,65,0,30,30,0,3,3,0,27-05-2021 13:59,June 2 2021
+190,Tiruvallur,Aakash Hospital,120,120,0,114,114,0,0,0,0,6,6,0,4,4,0,12-05-2021 09:08,June 2 2021
+191,Tiruvallur,ACS Medical College And Hospital,100,66,34,15,15,0,73,39,34,12,12,0,4,4,0,12-05-2021 18:18,June 2 2021
+192,Tiruvallur,Peacock Hospitals Private Limited,50,49,1,36,36,0,8,8,0,6,5,1,1,1,0,18-05-2021 08:28,June 2 2021
+193,Tiruvallur,Raj Nursing Home Mogappair East,33,33,0,26,26,0,0,0,0,7,7,0,3,3,0,12-05-2021 10:56,June 2 2021
+194,Tiruvallur,Ravina Health Care Pvt Ltd,54,24,30,30,16,14,16,4,12,8,4,4,1,0,1,02-06-2021 09:32,June 2 2021
+195,Tiruvallur,Sri Ivan Stedeford Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-05-2021 15:24,June 2 2021
+196,Tiruvallur,Sugam Hospital,51,51,0,39,39,0,10,10,0,2,2,0,2,2,0,17-05-2021 02:06,June 2 2021
+197,Tiruvannamalai,Ramana Maharishi Hospital,100,100,0,25,25,0,55,55,0,20,20,0,2,0,2,14-05-2021 08:46,June 2 2021
+198,Thoothukudi,Sacred Heart Hospital,35,31,4,28,28,0,5,1,4,2,2,0,1,0,1,25-05-2021 08:29,June 2 2021
+199,Thoothukudi,Sri Hospital,18,16,2,14,13,1,0,0,0,4,3,1,1,1,0,02-06-2021 07:31,June 2 2021
+200,Tirunelveli,"Annai Velankanni Multi Speciality Hospital, Palayamkottai",42,42,0,20,20,0,9,9,0,13,13,0,2,2,0,15-05-2021 08:11,June 2 2021
+201,Tirunelveli,Ponra Multispeciality Hospital,30,25,5,5,5,0,25,20,5,0,0,0,0,0,0,02-06-2021 08:28,June 2 2021
+202,Tirunelveli,Rosemary mission hospital and research centre,40,40,0,28,28,0,12,12,0,0,0,0,0,0,0,15-05-2021 08:12,June 2 2021
+203,Dindigul,Shifa Hospital,46,46,0,15,15,0,25,25,0,6,6,0,0,0,0,25-05-2021 08:28,June 2 2021
+204,Tiruppur,Revathi Medical Centre,83,83,0,38,38,0,35,35,0,10,10,0,4,4,0,12-05-2021 15:52,June 2 2021
+205,Thiruvarur,Navajeevan Hospital,40,40,0,10,10,0,20,20,0,10,10,0,0,0,0,02-06-2021 07:10,June 2 2021
+206,Thiruvarur,Thiruvarur Medical Centre,64,64,0,40,40,0,0,0,0,24,24,0,1,1,0,02-06-2021 08:19,June 2 2021
+207,Thiruchirappalli,"Neuro One Hospital, Karur Bye Pass Road",35,35,0,14,14,0,13,13,0,8,8,0,5,1,4,19-05-2021 16:52,June 2 2021
+208,Thiruchirappalli,Apollo Speciality Hospital,80,80,0,40,40,0,28,28,0,12,12,0,2,2,0,13-05-2021 08:37,June 2 2021
+209,Thiruchirappalli,G V N Hospital Pvt Ltd,10,10,0,7,7,0,3,3,0,0,0,0,0,0,0,02-06-2021 09:05,June 2 2021
+210,Thiruchirappalli,"Kavery Medical Centre And Hospital, Trichy",120,107,13,45,42,3,45,35,10,30,30,0,8,8,0,18-05-2021 21:20,June 2 2021
+211,Thiruchirappalli,Maruti Hospital,86,86,0,54,54,0,22,22,0,10,10,0,6,6,0,31-05-2021 13:15,June 2 2021
+212,Thiruchirappalli,Sinduja Hospital,80,80,0,26,26,0,35,35,0,19,19,0,4,3,1,19-05-2021 16:06,June 2 2021
+213,Thiruchirappalli,"SRM Medical College Hospital And Research Centre, Trichy",310,274,36,90,88,2,200,169,31,20,17,3,10,10,0,12-05-2021 15:23,June 2 2021
+214,Thiruchirappalli,Dr.G.Viswanathan Hospital Mambalasalai,35,35,0,23,23,0,7,7,0,5,5,0,4,4,0,31-05-2021 12:28,June 2 2021
+215,Thiruchirappalli,Pankajam Sitaram Nursing Home (A Unit Of GVN Hospital),33,33,0,29,29,0,0,0,0,4,4,0,2,0,2,02-06-2021 09:08,June 2 2021
+216,Thiruchirappalli,"Sundaram Hospital, Pudhur",56,55,1,36,36,0,10,9,1,10,10,0,4,4,0,13-05-2021 09:23,June 2 2021
+217,Thoothukudi,"Kamala Speciality Hospitals Pvt Ltd, Kovilpatti",21,17,4,14,14,0,4,2,2,3,1,2,1,0,1,23-05-2021 07:01,June 2 2021
+218,Vellore,Apollo KH Hospital Ranipet,55,53,2,46,46,0,4,2,2,5,5,0,2,2,0,12-05-2021 15:45,June 2 2021
+219,Vellore,Christian Medical College,900,809,91,668,643,25,66,0,66,166,166,0,74,74,0,02-06-2021 08:38,June 2 2021
+220,Vellore,Christian Medical College Kannigipuram campus,56,5,51,56,5,51,0,0,0,0,0,0,0,0,0,03-11-2020 07:34,June 2 2021
+221,Vellore,Sri Narayani Hospital and Research Centre,152,152,0,79,79,0,58,58,0,15,15,0,15,10,5,12-05-2021 09:12,June 2 2021
+222,Virudhunagar,Meenakshi Memorial Hospital,25,24,1,10,10,0,10,9,1,5,5,0,2,2,0,13-05-2021 07:40,June 2 2021
+223,Virudhunagar,Sri Krishna Hospital,30,30,0,25,25,0,0,0,0,5,5,0,2,0,2,13-05-2021 07:16,June 2 2021
+224,Chengalpattu,"Sai Fertility Centre & Hospital, Vedhachalam Nagar",28,28,0,12,12,0,15,15,0,1,1,0,1,1,0,16-05-2021 09:46,June 2 2021
+225,Dindigul,City Hospital Gandhi Nagar,42,42,0,32,32,0,6,6,0,4,4,0,1,0,1,01-06-2021 10:26,June 2 2021
+226,Dindigul,"Raja Rajeswari Hospital, Spence Nagar",49,40,9,44,38,6,0,0,0,5,2,3,1,0,1,15-05-2021 06:30,June 2 2021
+227,Madurai,"Santhya Speciality Hospital, Arappalaiyam Main Road",25,13,12,14,11,3,5,0,5,6,2,4,2,0,2,24-05-2021 06:39,June 2 2021
+228,Ramanathapuram,"Arogya Hospital, Kenikarai",100,70,30,70,50,20,20,20,0,10,0,10,1,0,1,13-05-2021 08:17,June 2 2021
+229,Salem,Saravana Hospital Ponnamapet,42,42,0,36,36,0,0,0,0,6,6,0,3,3,0,12-05-2021 09:20,June 2 2021
+230,Thiruchirappalli,Sri Venkateswara Hospital T.V Koil,20,16,4,20,16,4,0,0,0,0,0,0,0,0,0,13-05-2021 09:25,June 2 2021
+231,Madurai,Aristo Speciality Hospital Ponmeni,28,28,0,18,18,0,8,8,0,2,2,0,0,0,0,12-05-2021 08:31,June 2 2021
+232,Madurai,"Asirvatham Speciality Hospital, Gandhi Nagar",25,0,25,4,0,4,19,0,19,2,0,2,2,0,2,12-05-2021 08:21,June 2 2021
+233,Madurai,Bala Hospital Usilampatti,25,25,0,15,15,0,0,0,0,10,10,0,2,0,2,12-05-2021 07:36,June 2 2021
+234,Madurai,"KJS Speciality Hospital,K.Pudur",20,10,10,4,4,0,10,0,10,6,6,0,1,1,0,23-05-2021 08:24,June 2 2021
+235,Madurai,Nithilaa Nursing Home Palanganatham,17,17,0,17,17,0,0,0,0,0,0,0,2,2,0,12-05-2021 06:26,June 2 2021
+236,Madurai,NTC Hospitals Vaithiyanathapuram,38,30,8,5,5,0,8,0,8,25,25,0,2,2,0,28-05-2021 08:43,June 2 2021
+237,Madurai,Raks Hospital Anna Nagar,25,25,0,21,21,0,0,0,0,4,4,0,5,0,5,12-05-2021 08:29,June 2 2021
+238,Chennai,Pon Malligai Hospital Adambakkam,50,22,28,34,18,16,11,0,11,5,4,1,2,2,0,02-06-2021 09:59,June 2 2021
+239,Chennai,Iswarya Fertility Centre Kilpauk,20,20,0,20,20,0,0,0,0,0,0,0,0,0,0,12-05-2021 10:09,June 2 2021
+240,Chennai,Iswarya Fertility Centre Adyar,10,0,10,3,0,3,5,0,5,2,0,2,1,0,1,12-05-2021 09:10,June 2 2021
+241,Chennai,Iswarya Fertility Centre Ambattur,5,0,5,2,0,2,2,0,2,1,0,1,2,0,2,11-05-2021 17:03,June 2 2021
+242,Chengalpattu,"Parvathy Hospital Chrompet,",76,27,49,43,7,36,26,13,13,7,7,0,7,7,0,02-06-2021 08:34,June 2 2021
+243,Chennai,"Shaarave Multi Speciality Hospital, Sowcorpet",12,12,0,8,8,0,0,0,0,4,4,0,2,2,0,17-05-2021 07:43,June 2 2021
+244,Chennai,Shanmugam Multi Speciality Hospital Royapuram,10,10,0,10,10,0,0,0,0,0,0,0,1,1,0,01-06-2021 12:03,June 2 2021
+245,Coimbatore,Atlas Pain Care Sowripalayam,40,31,9,0,0,0,40,31,9,0,0,0,0,0,0,12-05-2021 08:53,June 2 2021
+246,Dindigul,"JCB Hospitals Palani Road,",60,60,0,58,58,0,0,0,0,2,2,0,2,0,2,02-06-2021 07:02,June 2 2021
+247,Dindigul,"Shree SathyaSubha Hospital, New Agaraharam",50,50,0,47,47,0,0,0,0,3,3,0,3,0,3,02-06-2021 07:42,June 2 2021
+248,Dindigul,"Van Allen Hospital, Kodaikanal",15,11,4,6,3,3,8,8,0,1,0,1,1,0,1,12-05-2021 15:49,June 2 2021
+249,Kanyakumari,Swamiyarmadam Rathna Memorial Hospital,40,40,0,15,15,0,16,16,0,9,9,0,0,0,0,12-05-2021 15:06,June 2 2021
+250,Krishnagiri,Vijay Sai Health Care Pvt Ltd,60,60,0,60,60,0,0,0,0,0,0,0,0,0,0,12-05-2021 09:04,June 2 2021
+251,Madurai,Rio Hospital Vandiyur,35,21,14,15,15,0,18,4,14,2,2,0,1,0,1,12-05-2021 10:43,June 2 2021
+252,Salem,"Universal Cancer Hospital, Kondalampatty",55,55,0,28,28,0,20,20,0,7,7,0,0,0,0,01-06-2021 11:44,June 2 2021
+253,Sivagangai,Devaki Multi Speciality Hospital,25,21,4,21,21,0,4,0,4,0,0,0,0,0,0,02-06-2021 09:12,June 2 2021
+254,Sivagangai,Karthick Multi Speciality Hospital,23,13,10,18,12,6,4,0,4,1,1,0,1,0,1,02-06-2021 09:00,June 2 2021
+255,Thiruchirappalli,"Velan Speciality Hospital, Highways Colony",25,25,0,22,22,0,0,0,0,3,3,0,1,0,1,31-05-2021 09:56,June 2 2021
+256,Thoothukudi,Public Welfare Hospital Kovilpatti,18,14,4,6,6,0,11,7,4,1,1,0,1,0,1,26-05-2021 08:54,June 2 2021
+257,Chennai,"Medway Women Centre, Kodambakkam",30,30,0,26,26,0,0,0,0,4,4,0,4,4,0,12-05-2021 13:42,June 2 2021
+258,Dindigul,"K T Hospitals, Palani Bye pass Junction",110,75,35,80,55,25,0,0,0,30,20,10,5,0,5,12-05-2021 17:02,June 2 2021
+259,Madurai,"Raksha Hospital, Anna Nagar",20,7,13,6,1,5,14,6,8,0,0,0,0,0,0,28-05-2021 12:07,June 2 2021
+260,Madurai,Thirusenthilandavar Multispeciality Hospital,20,0,20,2,0,2,16,0,16,2,0,2,1,1,0,28-05-2021 16:23,June 2 2021
+261,Sivagangai,"Madha Hospital, Manamadurai",50,27,23,10,8,2,30,19,11,10,0,10,1,0,1,14-05-2021 15:31,June 2 2021
+262,Madurai,"Ahana Hospital,11,Subramanian st,Annanagar,Madurai",90,77,13,89,76,13,0,0,0,1,1,0,1,1,0,02-06-2021 07:25,June 2 2021
+263,Chennai,"Apollo Hospital, OMR, Perungudi",55,55,0,32,32,0,7,7,0,16,16,0,5,5,0,01-06-2021 18:15,June 2 2021
+264,Chennai,"K.G.J Hospitals, Korattur",20,16,4,20,16,4,0,0,0,0,0,0,0,0,0,02-06-2021 09:58,June 2 2021
+265,Chennai,"Padmapriya Hospital, Adyar",5,2,3,3,2,1,2,0,2,0,0,0,0,0,0,02-06-2021 07:22,June 2 2021
+266,Chennai,"Priya Nursing Home, Old Washermenpet",40,40,0,10,10,0,24,24,0,6,6,0,0,0,0,11-05-2021 10:46,June 2 2021
+267,Chennai,"Saraswathy Multi Speciality Hospitals, Madipakkam",85,84,1,30,30,0,20,19,1,35,35,0,6,6,0,13-05-2021 06:24,June 2 2021
+268,Chennai,"Suman Hospital, Thiruvotriyur",30,30,0,20,20,0,0,0,0,10,10,0,2,2,0,13-05-2021 10:48,June 2 2021
+269,Chennai,"The Madras Medical Mission, Mogappair",30,30,0,17,17,0,8,8,0,5,5,0,2,0,2,12-05-2021 08:04,June 2 2021
+270,Coimbatore,Abinand  Hospital,65,52,13,30,30,0,30,17,13,5,5,0,3,3,0,12-05-2021 08:52,June 2 2021
+271,Coimbatore,"Sree Abirami Hospital, Coimbatore TN.",75,75,0,45,45,0,15,15,0,15,15,0,3,3,0,01-06-2021 05:51,June 2 2021
+272,Erode,"Kovai Medical Centre,Erode TN.",50,0,50,20,0,20,25,0,25,0,0,0,0,0,0,15-03-2021 13:39,June 2 2021
+273,Kancheepuram,"TCS, Sirucherry",40,20,20,0,0,0,40,20,20,0,0,0,0,0,0,02-06-2021 09:26,June 2 2021
+274,Kanyakumari,"Bethesda Hospital, Nagercoil",40,40,0,24,24,0,9,9,0,7,7,0,2,2,0,12-05-2021 17:06,June 2 2021
+275,Kanyakumari,"Siva Hospital, Nagercoil",50,50,0,20,20,0,25,25,0,5,5,0,3,0,3,18-05-2021 17:14,June 2 2021
+276,Karur,"ABS Hospital, Thanthonimalai",80,75,5,55,53,2,0,0,0,25,22,3,3,0,3,12-05-2021 13:27,June 2 2021
+277,Krishnagiri,"Sri Chandrasekaran Hospital unit -2, Hosur",90,86,4,69,65,4,1,1,0,20,20,0,1,1,0,01-06-2021 10:44,June 2 2021
+278,Madurai,"BGM Hospital, Iyer Bungalow",32,30,2,12,12,0,17,15,2,3,3,0,1,0,1,25-05-2021 08:24,June 2 2021
+279,Madurai,"Dr.Chidambaram Memorial Hospital, Jai Hind puram",19,19,0,19,19,0,0,0,0,0,0,0,0,0,0,12-05-2021 16:26,June 2 2021
+280,Madurai,"Gowri Nursing Home, Jeeva Nagar",27,27,0,15,15,0,12,12,0,0,0,0,0,0,0,12-05-2021 16:26,June 2 2021
+281,Madurai,"Grace Kennett Foundation Hospital, Kennett Road",15,14,1,10,9,1,0,0,0,5,5,0,2,2,0,02-06-2021 08:52,June 2 2021
+282,Madurai,"Swarnakamalam (SKG) Multispeciality Hospital Pvt Ltd, Thirumanagalam",50,21,29,12,10,2,5,0,5,33,11,22,8,7,1,02-06-2021 06:45,June 2 2021
+283,Nagapattinam,"Arun Priya Nursing Home, Nagapattinam TN.",42,27,15,14,5,9,28,22,6,0,0,0,0,0,0,14-05-2021 13:18,June 2 2021
+284,Ramanathapuram,Meera Clinic,16,16,0,6,6,0,10,10,0,0,0,0,2,0,2,13-05-2021 08:18,June 2 2021
+285,Salem,"Geeth Raghunath Hospital, Attur",35,33,2,31,31,0,0,0,0,4,2,2,2,1,1,16-05-2021 17:16,June 2 2021
+286,Salem,"Karthik Medical Centre, Idappadi",35,33,2,18,18,0,15,13,2,2,2,0,2,2,0,02-06-2021 09:57,June 2 2021
+287,Salem,"Shivasurya Polyclinic, Salem",24,24,0,18,18,0,6,6,0,0,0,0,0,0,0,12-05-2021 01:33,June 2 2021
+288,Salem,"Sree Vasantham Hospital, Gugai",35,35,0,10,10,0,16,16,0,9,9,0,3,0,3,02-06-2021 09:51,June 2 2021
+289,Tenkasi,"Meeran Hospital, Tenkasi",53,43,10,48,38,10,1,1,0,4,4,0,1,0,1,15-05-2021 09:12,June 2 2021
+290,Tenkasi,"Santhi Hospital, Vaikkalpalam, Tenkasi",40,33,7,20,18,2,15,15,0,5,0,5,1,0,1,13-05-2021 07:34,June 2 2021
+291,Thanjavur,Our Lady Hospital,85,59,26,20,20,0,56,30,26,9,9,0,2,0,2,12-05-2021 16:01,June 2 2021
+292,Thanjavur,"Sri Naadi Hospital, Pattukottai",40,40,0,25,25,0,10,10,0,5,5,0,3,3,0,13-05-2021 01:14,June 2 2021
+293,Thanjavur,"Vijay Poly Clinic, Kumbakonam",30,30,0,18,18,0,10,10,0,2,2,0,1,1,0,12-05-2021 15:26,June 2 2021
+294,Theni,Arun Hospital,23,0,23,10,0,10,10,0,10,3,0,3,0,0,0,14-05-2021 08:53,June 2 2021
+295,Theni,"Nalam Hospital, Allinagaram",12,12,0,12,12,0,0,0,0,0,0,0,0,0,0,02-06-2021 07:03,June 2 2021
+296,Theni,"Ramapadyan Hospital, A.Pudur Vilakku",15,8,7,2,0,2,11,8,3,2,0,2,1,0,1,25-05-2021 14:34,June 2 2021
+297,Theni,"Theni Medical Centre, Nehruji Road",25,25,0,25,25,0,0,0,0,0,0,0,0,0,0,14-05-2021 08:54,June 2 2021
+298,Tirunelveli,"Royal Hospital, NGO Colony",28,23,5,20,20,0,5,0,5,3,3,0,3,3,0,15-05-2021 08:13,June 2 2021
+299,Tirunelveli,"Sudharson Platinum Hospitals, Vannarpettai",50,50,0,29,29,0,10,10,0,11,11,0,3,0,3,21-05-2021 19:20,June 2 2021
+300,Thiruchirappalli,"Athma Hospitals, Thillai Nagar",15,15,0,6,6,0,8,8,0,1,1,0,1,1,0,13-05-2021 10:28,June 2 2021
+301,Thiruchirappalli,Kavi Hospital & Neuro Foundation,30,30,0,24,24,0,4,4,0,2,2,0,2,0,2,30-05-2021 09:38,June 2 2021
+302,Thiruchirappalli,Mangalam Hospital,15,15,0,12,12,0,3,3,0,0,0,0,0,0,0,13-05-2021 08:54,June 2 2021
+303,Thiruchirappalli,MMM Multi Speciality Hospital,20,0,20,10,0,10,5,0,5,5,0,5,0,0,0,13-05-2021 09:26,June 2 2021
+304,Thiruchirappalli,"Retna Global Hospital, Tennur",70,69,1,54,53,1,0,0,0,16,16,0,5,5,0,15-05-2021 12:03,June 2 2021
+305,Thiruchirappalli,"Star KIMS Hospital, Thillai Nagar",40,40,0,32,32,0,0,0,0,8,8,0,3,3,0,13-05-2021 09:28,June 2 2021
+306,Thiruchirappalli,"Trichy Medical Centre and Hospital, Thillai Nagar",32,32,0,27,27,0,0,0,0,5,5,0,3,3,0,13-05-2021 09:31,June 2 2021
+307,Thoothukudi,"Aarthi Hospital, Kovilpatti",27,27,0,15,15,0,8,8,0,4,4,0,1,1,0,20-05-2021 12:14,June 2 2021
+308,Thoothukudi,"City Hospital, Tuticorin",25,14,11,21,14,7,0,0,0,4,0,4,1,0,1,30-05-2021 12:32,June 2 2021
+309,Thoothukudi,"K.M.T Hospital, Kayalpatnam",22,16,6,6,5,1,11,11,0,5,0,5,1,0,1,13-05-2021 08:37,June 2 2021
+310,Thoothukudi,"Sree Chendur Multispeciality Hospital, Kovilpatti",16,16,0,13,13,0,0,0,0,3,3,0,0,0,0,15-05-2021 15:45,June 2 2021
+311,Thoothukudi,Suganthi Nursing Home (Unit of Sundaram Arulrhaj Hospitals),15,15,0,12,12,0,0,0,0,3,3,0,3,0,3,14-05-2021 13:04,June 2 2021
+312,Virudhunagar,"VVVNC, Chatrarediapatti",40,40,0,20,20,0,0,0,0,20,20,0,1,1,0,12-05-2021 15:07,June 2 2021
+313,Chennai,Dr. Mehtas Hospital,102,102,0,82,82,0,10,10,0,10,10,0,4,4,0,11-05-2021 09:43,June 2 2021
+314,Tirunelveli,Shifa Hospital,65,64,1,35,35,0,22,21,1,8,8,0,5,5,0,15-05-2021 08:16,June 2 2021
+315,Chennai,Annai Multispeciality Hospital,25,8,17,10,5,5,7,0,7,8,3,5,4,2,2,01-06-2021 09:26,June 2 2021
+316,Thiruchirappalli,Royal Pearl Hospital,25,22,3,18,15,3,0,0,0,7,7,0,2,0,2,14-05-2021 09:52,June 2 2021
+317,Mayiladuthurai,Vishnu hospital,19,16,3,6,6,0,10,10,0,3,0,3,1,0,1,14-05-2021 13:21,June 2 2021
+318,Sivagangai,Apollo,60,55,5,10,10,0,45,40,5,5,5,0,1,1,0,02-06-2021 09:05,June 2 2021
+319,Sivagangai,Senthil hospital,85,85,0,50,50,0,23,23,0,12,12,0,4,0,4,02-06-2021 09:27,June 2 2021
+320,Chengalpet,KMS Health Centre,25,25,0,17,17,0,7,7,0,1,1,0,1,1,0,12-05-2021 17:41,June 2 2021
+321,Salem,"Kamala Hospital,Agraharam",73,73,0,31,31,0,32,32,0,10,10,0,2,2,0,16-05-2021 20:56,June 2 2021
+322,Coimbatore,"Coimbatore Diabetic Foundation,maruthamalai road",30,13,17,15,8,7,15,5,10,0,0,0,0,0,0,02-06-2021 10:07,June 2 2021
+323,Kanyakumari,"Manuel Orthopedic Hospital, therekaalputhoor",50,45,5,25,25,0,20,20,0,5,0,5,2,0,2,12-05-2021 15:14,June 2 2021
+324,Kanyakumari,"Joseph Sahayam Speciality Hospital, Nagerkoil",68,24,44,31,1,30,31,23,8,6,0,6,4,0,4,12-05-2021 16:26,June 2 2021
+325,Kanyakumari,"Thasiah Medical centre, Marthandam",30,14,16,13,10,3,7,4,3,10,0,10,2,0,2,24-05-2021 15:07,June 2 2021
+326,Thanjavur,"MVK Hospital, Thanjavur",50,50,0,15,15,0,20,20,0,15,15,0,2,0,2,12-05-2021 14:53,June 2 2021
+327,Thanjavur,Vinodhagan Memorial Hospital,80,79,1,30,29,1,45,45,0,5,5,0,2,2,0,02-06-2021 09:03,June 2 2021
+328,Coimbatore,"Chennai Hospitals Pvt Ltd, Gandhipuram",37,0,37,37,0,37,0,0,0,7,0,7,0,0,0,10-12-2020 09:08,June 2 2021
+329,Coimbatore,"CSR Nursing Home, Gandhipuram",41,41,0,14,14,0,26,26,0,1,1,0,1,1,0,12-05-2021 10:06,June 2 2021
+330,Coimbatore,"Dr.Muthus Hospital, Saravanampatti",133,122,11,80,80,0,13,2,11,40,40,0,29,29,0,12-05-2021 09:56,June 2 2021
+331,Coimbatore,"FIMS Hospital, Sundarapuram",100,80,20,50,40,10,35,25,10,15,15,0,4,4,0,02-06-2021 09:19,June 2 2021
+332,Coimbatore,"K.Govindhasamy Memorial Annex Hospital, Saravanampatti",150,150,0,30,30,0,117,117,0,3,3,0,2,2,0,12-05-2021 10:29,June 2 2021
+333,Coimbatore,"Kalpana Medical Centre Pvt Ltd, Kavundampalayam",40,40,0,38,38,0,0,0,0,2,2,0,2,2,0,12-05-2021 09:51,June 2 2021
+334,Coimbatore,"Kumaran Medical Centre, Kurumbapalayam",80,80,0,50,50,0,20,20,0,10,10,0,3,3,0,12-05-2021 10:00,June 2 2021
+335,Coimbatore,"NG Hospital Pvt Ltd & Research Centre, Singanallur",140,138,2,73,73,0,40,38,2,27,27,0,2,2,0,02-06-2021 09:50,June 2 2021
+336,Coimbatore,"Sathya Medical Centre and Hospital, Sivanandha Colony",30,30,0,10,10,0,15,15,0,5,5,0,4,4,0,12-05-2021 09:18,June 2 2021
+337,Salem,Aishwaryam Speciality Hospital,47,47,0,47,47,0,0,0,0,0,0,0,2,0,2,12-05-2021 09:40,June 2 2021
+338,Salem,"Deepam Speciality Hospital, Vazhapady",60,45,15,10,10,0,46,31,15,4,4,0,0,0,0,13-05-2021 06:38,June 2 2021
+339,Salem,"GL Hospital, Swarnapuri",30,30,0,18,18,0,6,6,0,6,6,0,1,1,0,17-05-2021 12:57,June 2 2021
+340,Salem,Mohanraj Children's Hospital,70,21,49,22,21,1,48,0,48,0,0,0,0,0,0,02-06-2021 09:09,June 2 2021
+341,Salem,"Nathan Super Speciaty Hosptial, Salem",52,52,0,23,23,0,17,17,0,12,12,0,2,0,2,30-05-2021 10:27,June 2 2021
+342,Salem,"Sri Shellapha Hospital, Salem",70,60,10,35,35,0,32,22,10,3,3,0,0,0,0,13-05-2021 10:03,June 2 2021
+343,Salem,Thiru Neuro And MultiSpecility Salem ,52,52,0,17,17,0,25,25,0,10,10,0,2,2,0,31-05-2021 08:17,June 2 2021
+344,Erode,"Erode multispeciality Hospital, Erode",60,60,0,16,16,0,40,40,0,4,4,0,2,2,0,12-05-2021 08:51,June 2 2021
+345,Madurai,"Vetri Siddha Hospital, Thaniciyam (Siddha)",60,12,48,4,2,2,56,10,46,0,0,0,0,0,0,02-06-2021 08:57,June 2 2021
+346,Karur,"Abishek Hospital, Karur Tn.",27,25,2,15,15,0,12,10,2,0,0,0,0,0,0,12-05-2021 15:43,June 2 2021
+347,Namakkal,"Shree Akhshaya Hospital Namakkal, TN.",28,28,0,23,23,0,0,0,0,5,5,0,4,4,0,13-05-2021 07:29,June 2 2021
+348,Namakkal,"Soorya Multispechiality Hospitals, Namakkal TN.",40,40,0,35,35,0,0,0,0,5,5,0,1,0,1,12-05-2021 17:13,June 2 2021
+349,Karur,"GC Hospital, Karur Tn.",15,12,3,10,8,2,4,3,1,1,1,0,1,0,1,13-05-2021 09:14,June 2 2021
+350,Chennai,"Vivekananda Hospital,mylapore",40,40,0,20,20,0,10,10,0,10,10,0,2,2,0,19-05-2021 09:33,June 2 2021
+351,Chengalpattu,"DAISY HOSPITAL,CHROMPET",14,9,5,12,7,5,0,0,0,2,2,0,2,2,0,02-06-2021 09:49,June 2 2021
+352,Chengalpattu,AAYUSHMAAN HOLISTIC HEALTH CENTRE,30,30,0,5,5,0,25,25,0,0,0,0,0,0,0,13-05-2021 10:00,June 2 2021
+353,Kanyakumari,"Catherinebooth hospital,Nagercoil",55,55,0,21,21,0,28,28,0,6,6,0,1,0,1,25-05-2021 11:58,June 2 2021
+354,Tenkasi,"Mathura Hospital, Surandai",8,0,8,0,0,0,8,0,8,0,0,0,1,0,1,13-05-2021 07:33,June 2 2021
+355,Chennai,"K.M Speciality Hospital, K.K Nagar",33,33,0,33,33,0,0,0,0,0,0,0,0,0,0,21-05-2021 10:57,June 2 2021
+356,Tiruvallur,SKS HOSPITAL,15,3,12,12,3,9,0,0,0,3,0,3,2,0,2,01-06-2021 09:27,June 2 2021
+357,Thiruvarur,"P.K.T Nursing Home, Thiruthuraipoondi",15,0,15,15,0,15,0,0,0,4,0,4,0,0,0,26-04-2021 18:12,June 2 2021
+358,Dindigul,Vadamalayan Hospital,76,73,3,36,36,0,30,27,3,10,10,0,5,4,1,12-05-2021 15:28,June 2 2021
+359,Chennai,"MOHAN NURSING HOME, VILLIVAKKAM",8,0,8,4,0,4,4,0,4,0,0,0,0,0,0,13-05-2021 14:14,June 2 2021
+360,Chennai,"Best Hospitals,Kodambakkam",34,34,0,6,6,0,25,25,0,3,3,0,2,2,0,16-05-2021 11:33,June 2 2021
+361,Thiruvarur,"Raj Hospital, Mannargudi",58,58,0,28,28,0,30,30,0,0,0,0,0,0,0,02-06-2021 07:11,June 2 2021
+362,Chengalpattu,"Kasthuri Hospital , Thambaram",37,20,17,34,17,17,0,0,0,3,3,0,3,0,3,01-06-2021 11:21,June 2 2021
+363,Chennai,"Sri Singhvi Health Centre, Purasaivakkam",20,14,6,15,13,2,5,1,4,0,0,0,0,0,0,02-06-2021 09:41,June 2 2021
+364,Namakkal,Visaalam Hospital,55,42,13,14,11,3,40,31,9,1,0,1,1,0,1,12-05-2021 18:08,June 2 2021
+365,Krishnagiri,"Gunam super speciality hospital,Hosur",70,70,0,18,18,0,52,52,0,0,0,0,0,0,0,12-05-2021 10:51,June 2 2021
+366,Salem,Sree jeyam ortho & multispeciality Hospital,24,24,0,3,3,0,20,20,0,1,1,0,0,0,0,12-05-2021 08:57,June 2 2021
+367,Krishnagiri,St.Louis Hospital,40,3,37,40,3,37,0,0,0,0,0,0,0,0,0,07-12-2020 08:53,June 2 2021
+368,Vellore,Naruvi Hospitals(A Unit of m/s.Sanco ),199,199,0,170,170,0,0,0,0,29,29,0,27,15,12,12-05-2021 16:50,June 2 2021
+369,Krishnagiri,Nathan’s Speciality Hospital,30,30,0,20,20,0,10,10,0,0,0,0,0,0,0,28-05-2021 12:40,June 2 2021
+370,Chennai,"Sudha Hospital, Royapuram",12,12,0,10,10,0,0,0,0,2,2,0,1,1,0,27-05-2021 16:18,June 2 2021
+371,Tirunelveli,Peace Health Centre,24,24,0,11,11,0,7,7,0,6,6,0,2,2,0,15-05-2021 08:15,June 2 2021
+372,Chennai,Jolen Hospital,22,22,0,8,8,0,10,10,0,4,4,0,0,0,0,20-05-2021 11:02,June 2 2021
+373,Chennai,Sen Hospital,30,30,0,24,24,0,0,0,0,6,6,0,2,2,0,12-05-2021 17:15,June 2 2021
+374,Chennai,"st. Isabels hospital, Maylapore",100,74,26,66,66,0,26,0,26,8,8,0,4,4,0,12-05-2021 16:05,June 2 2021
+375,Chennai,"Sri Balaji Hospital, guindy",19,19,0,12,12,0,0,0,0,7,7,0,0,0,0,05-05-2021 11:13,June 2 2021
+376,Chennai,"Radha Rajendran Hospital, Alandur",12,12,0,12,12,0,0,0,0,0,0,0,0,0,0,08-05-2021 10:22,June 2 2021
+377,Chennai,"One health hospital, Vandalur",25,25,0,15,15,0,0,0,0,10,10,0,4,4,0,21-05-2021 16:04,June 2 2021
+378,Chennai,"Srinivasa Hospital, Kodampakkam",30,12,18,20,9,11,5,1,4,5,2,3,2,2,0,27-05-2021 21:11,June 2 2021
+379,Kanyakumari,"PPK hospital, Marthandam",42,35,7,25,18,7,10,10,0,7,7,0,3,2,1,12-05-2021 15:16,June 2 2021
+380,Salem,RK hospital,15,15,0,10,10,0,3,3,0,2,2,0,0,0,0,01-06-2021 12:17,June 2 2021
+381,Karur,Nachimuthu hospital,25,25,0,21,21,0,0,0,0,4,4,0,1,0,1,12-05-2021 15:49,June 2 2021
+382,Virudhunagar,Amar hospital,41,39,2,36,36,0,0,0,0,5,3,2,2,0,2,12-05-2021 15:14,June 2 2021
+383,Krishnagiri,"Uma Kumar Hospital, Hosur",5,5,0,0,0,0,5,5,0,0,0,0,0,0,0,07-05-2021 16:43,June 2 2021
+384,Tirunelveli,VJ Hospital,26,25,1,10,9,1,11,11,0,5,5,0,5,5,0,02-06-2021 08:25,June 2 2021
+385,Thiruchirappalli,Atlas Hospital,40,40,0,26,26,0,8,8,0,6,6,0,1,1,0,14-05-2021 08:19,June 2 2021
+386,Tiruppur,Velan Hospital,30,30,0,18,18,0,4,4,0,8,8,0,2,2,0,13-05-2021 15:49,June 2 2021
+387,Dindigul,"Sakthi Vinayagar Multispeciality Hospital, Guziliamparai",30,30,0,10,10,0,10,10,0,10,10,0,5,3,2,15-05-2021 16:04,June 2 2021
+388,Chennai,Be well hospital T.Nagar,19,19,0,19,19,0,0,0,0,0,0,0,0,0,0,07-05-2021 08:46,June 2 2021
+389,Chennai,Vijai's Nursing home,25,25,0,15,15,0,5,5,0,5,5,0,0,0,0,12-05-2021 15:53,June 2 2021
+390,Chennai,Prime Indian Hospitals,55,55,0,45,45,0,10,10,0,0,0,0,0,0,0,31-05-2021 11:39,June 2 2021
+391,Thanjavur,Dravidian Hospital,40,40,0,31,31,0,0,0,0,9,9,0,1,0,1,12-05-2021 15:24,June 2 2021
+392,Coimbatore,Gem Hospital and Research centre,75,75,0,40,40,0,30,30,0,5,5,0,0,0,0,28-05-2021 09:05,June 2 2021
+393,Coimbatore,"N.M. Hospital, Annur",64,64,0,40,40,0,12,12,0,12,12,0,2,2,0,12-05-2021 10:44,June 2 2021
+394,Namakkal,Swamy Vivekanandha Medical College Hospital and Research Institute,100,0,100,40,0,40,50,0,50,10,0,10,10,0,10,14-05-2021 07:44,June 2 2021
+395,Tiruvallur,"Be well , Ponamallee",35,35,0,15,15,0,20,20,0,0,0,0,0,0,0,12-05-2021 16:17,June 2 2021
+396,Thanjavur,National pharma,50,37,13,5,5,0,43,30,13,2,2,0,2,2,0,26-05-2021 12:41,June 2 2021
+397,Thiruchirappalli,"Akshaya Hospital,Thottiyam",25,17,8,9,4,5,11,11,0,5,2,3,2,0,2,18-05-2021 07:06,June 2 2021
+398,Chennai,"Amrit Medical Centre,Purasawakkam",20,17,3,2,2,0,17,14,3,1,1,0,0,0,0,12-05-2021 16:00,June 2 2021
+399,Salem,AP Medical Centre,40,40,0,25,25,0,15,15,0,0,0,0,0,0,0,13-05-2021 11:47,June 2 2021
+400,Chennai,Fortis healthcare – Vadapalani,20,20,0,15,15,0,0,0,0,5,5,0,1,1,0,12-05-2021 16:14,June 2 2021
+401,Chennai,"City Tower Hospital,Anna Nagar",28,28,0,22,22,0,0,0,0,6,6,0,1,1,0,08-05-2021 11:06,June 2 2021
+402,Tiruppur,"CNS Hospitals, Palangarai",25,25,0,12,12,0,10,10,0,3,3,0,2,2,0,12-05-2021 19:24,June 2 2021
+403,Chengalpattu,"Das Nursing Home,Chengalpattu",10,7,3,4,2,2,2,1,1,4,4,0,2,2,0,02-06-2021 08:31,June 2 2021
+404,Kanyakumari,"Dr. Kumaraswami Health Centre, Perumalpuram",50,28,22,8,8,0,40,18,22,2,2,0,0,0,0,13-05-2021 09:50,June 2 2021
+405,Chennai,"Esha Hospital,Old Washermenpet",10,8,2,3,3,0,7,5,2,0,0,0,0,0,0,23-05-2021 10:15,June 2 2021
+406,Chennai,Faith Multispecialty Hospital,12,12,0,4,4,0,4,4,0,4,4,0,4,4,0,12-05-2021 16:17,June 2 2021
+407,Chennai,"G.R Hospital,Adambakkam",15,6,9,10,4,6,5,2,3,0,0,0,0,0,0,28-05-2021 10:53,June 2 2021
+408,Madurai,"Genezen Indus Hopsital,Madurai",36,36,0,18,18,0,0,0,0,18,18,0,2,2,0,16-05-2021 13:03,June 2 2021
+409,Chennai,"GeriCare, T Nagar",35,35,0,22,22,0,3,3,0,10,10,0,2,2,0,12-05-2021 10:33,June 2 2021
+410,Chennai,"Hindu Mission Health Services,Nanganallur",17,17,0,8,8,0,8,8,0,1,1,0,0,0,0,11-05-2021 16:13,June 2 2021
+411,Chennai,"Iyyappa Hospitals and Diabetes Research Centre Pvt Ltd,Perambur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22-04-2021 13:02,June 2 2021
+412,Kancheepuram,"Jaya Hospital,Sriperumbudhur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22-04-2021 13:03,June 2 2021
+413,Thoothukudi,"Jayashri Hospital,Tuticorin",15,15,0,5,5,0,7,7,0,3,3,0,1,0,1,26-05-2021 17:29,June 2 2021
+414,Sivagangai,"Jedaiah Steve Hospital,Karaikudi",38,38,0,26,26,0,12,12,0,0,0,0,0,0,0,02-06-2021 09:33,June 2 2021
+415,Chennai,"Jyoti Hospital,Old Washermenpet",18,9,9,4,4,0,14,5,9,0,0,0,1,1,0,10-05-2021 11:28,June 2 2021
+416,Thanjavur,"Kanakesa Thevar Memorial Hospital,Thanjavur",30,30,0,24,24,0,0,0,0,6,6,0,2,0,2,12-05-2021 19:03,June 2 2021
+417,Chengalpattu,"Kathir Memorial Hospital,Chengalpattu",12,12,0,12,12,0,0,0,0,0,0,0,0,0,0,12-05-2021 17:16,June 2 2021
+418,Salem,"Kavin Hospital,Omalur",15,15,0,10,10,0,3,3,0,2,2,0,1,0,1,12-05-2021 16:17,June 2 2021
+419,Chennai,"Kavitha Ortho and Multi Speciality Hospital,Chrompet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22-04-2021 13:11,June 2 2021
+420,Tiruppur,"Kongu Heart Center, Dharapuram",25,25,0,12,12,0,5,5,0,8,8,0,2,2,0,14-05-2021 09:16,June 2 2021
+421,Chengalpattu,"Lakshmi Nursing Home, Pallavaram",17,15,2,17,15,2,0,0,0,0,0,0,1,0,1,12-05-2021 09:09,June 2 2021
+422,Chennai,"Leela Specialty Hospital,Tiruvottiyur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22-04-2021 13:13,June 2 2021
+423,Kancheepuram,Mahalakshmi Multispecialty Hospital,51,51,0,39,39,0,3,3,0,9,9,0,1,1,0,12-05-2021 08:59,June 2 2021
+424,Chennai,"Nagamani Hospital,Old Washermenpet",20,20,0,20,20,0,0,0,0,0,0,0,0,0,0,17-05-2021 14:39,June 2 2021
+425,Chennai,Nalam Hospital Pvt Ltd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22-04-2021 13:15,June 2 2021
+426,Chennai,"Oxymed Hospital,Nandanam",20,20,0,14,14,0,0,0,0,6,6,0,0,0,0,12-05-2021 15:32,June 2 2021
+427,Chennai,"Pavithra Hospital Pvt Ltd,Teynampet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22-04-2021 13:17,June 2 2021
+428,Thiruchirappalli,"Prabhu Diabetes Specialty Centre,Trichy",22,22,0,11,11,0,10,10,0,1,1,0,1,1,0,13-05-2021 09:20,June 2 2021
+429,Chennai,"Prasanth Fertility Research Centre,Chetpet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22-04-2021 13:18,June 2 2021
+430,Pudukkottai,"Pudhugai Star Hospital,Pudukottai",20,20,0,10,10,0,0,0,0,10,10,0,3,0,3,12-05-2021 16:40,June 2 2021
+431,Chennai,"Ramani Hospital,Ashok Nagar",10,10,0,7,7,0,2,2,0,1,1,0,0,0,0,17-05-2021 23:40,June 2 2021
+432,Chennai,Right Hospitals Pvt Ltd,24,24,0,17,17,0,3,3,0,4,4,0,2,2,0,12-05-2021 16:56,June 2 2021
+433,Chengalpattu,"RKP Hospital,Nanmangalam",36,20,16,26,10,16,0,0,0,10,10,0,0,0,0,02-06-2021 09:16,June 2 2021
+434,Krishnagiri,"S.B.S. Hospital, Hosur",27,24,3,27,24,3,0,0,0,0,0,0,0,0,0,12-05-2021 11:04,June 2 2021
+435,Namakkal,"Sakthi Hospital,Namakkal",10,10,0,8,8,0,0,0,0,2,2,0,1,0,1,13-05-2021 07:41,June 2 2021
+436,Chennai,"Senthil Priya Hospital, Kodungaiyur",12,11,1,12,11,1,0,0,0,0,0,0,0,0,0,12-05-2021 23:17,June 2 2021
+437,Chennai,"Shens Hospital, Ashok Nagar",10,10,0,10,10,0,0,0,0,0,0,0,0,0,0,13-05-2021 11:18,June 2 2021
+438,Thiruchirappalli,"Sri AuroMa Hospital,Trichy",20,17,3,6,6,0,14,11,3,0,0,0,0,0,0,18-05-2021 07:57,June 2 2021
+439,Chennai,"Sri Chakra Multispecialty Hospital,Nanganallur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22-04-2021 13:32,June 2 2021
+440,Chennai,"Sri Hospital, Tondiarpet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22-04-2021 13:33,June 2 2021
+441,Thanjavur,Sri Kumaran Gastro Private Ltd,24,23,1,16,15,1,5,5,0,3,3,0,2,0,2,15-05-2021 20:32,June 2 2021
+442,Chennai,Sri Ranga Hospital,9,9,0,5,5,0,0,0,0,4,4,0,1,1,0,12-05-2021 13:06,June 2 2021
+443,Chennai,"Susi Hospital, Thiruvottiyur",15,12,3,8,8,0,5,2,3,2,2,0,1,1,0,12-05-2021 10:48,June 2 2021
+444,Madurai,"Thavam Hospital, K.Pudhur",15,2,13,6,0,6,6,1,5,3,1,2,0,0,0,02-06-2021 07:47,June 2 2021
+445,Tiruppur,"Vel Hospital, Dharapuram",25,25,0,4,4,0,19,19,0,2,2,0,2,2,0,12-05-2021 15:57,June 2 2021
+446,Tiruppur,"Vel Hospital,Udumalpet",20,20,0,5,5,0,12,12,0,3,3,0,2,0,2,12-05-2021 15:42,June 2 2021
+447,Madurai,Vijaya Hospital,10,10,0,7,7,0,0,0,0,3,3,0,1,1,0,12-05-2021 08:37,June 2 2021
+448,Madurai,"Vikram Multispeciality hospital, Madurai",40,40,0,16,16,0,9,9,0,15,15,0,2,0,2,12-05-2021 16:42,June 2 2021
+449,Chennai,"Westminster HealthCare,Nungambakkam",23,19,4,12,12,0,9,5,4,2,2,0,0,0,0,12-05-2021 17:13,June 2 2021
+450,Madurai,Ashwin Fed Specialty Hospital,10,10,0,9,9,0,1,1,0,0,0,0,0,0,0,12-05-2021 16:05,June 2 2021
+451,Tiruppur,"Bala Ortho Hospital, Dharapuram",59,59,0,39,39,0,15,15,0,5,5,0,3,0,3,12-05-2021 17:12,June 2 2021
+452,Madurai,"Iswarya Fertility Services Pvt Ltd,Ellis Nagar",10,4,6,3,1,2,4,3,1,3,0,3,0,0,0,13-05-2021 06:41,June 2 2021
+453,Chennai,"Hindu Mission Hospital,Tambaram",128,128,0,91,91,0,21,21,0,16,16,0,8,8,0,12-05-2021 17:09,June 2 2021
+454,Salem,"Deepam Hospital,Salem",45,45,0,20,20,0,21,21,0,4,4,0,0,0,0,12-05-2021 16:55,June 2 2021
+455,Tiruvallur,RIMS Hospital,52,52,0,47,47,0,0,0,0,5,5,0,5,5,0,12-05-2021 09:53,June 2 2021
+456,Thoothukudi,Arputham Hospital,15,15,0,12,12,0,0,0,0,3,3,0,2,0,2,18-05-2021 12:35,June 2 2021
+457,Kanyakumari,Morris Mathiys hospital,40,40,0,6,6,0,26,26,0,8,8,0,0,0,0,29-05-2021 08:38,June 2 2021
+458,Kanyakumari,Holy Cross Hospital,70,70,0,23,23,0,45,45,0,2,2,0,0,0,0,29-05-2021 09:41,June 2 2021
+459,Theni,Krishnammal Memorial hospital.,35,27,8,20,18,2,10,4,6,5,5,0,0,0,0,02-06-2021 08:00,June 2 2021
+460,Tiruppur,Sri Kumaran Hospital,204,204,0,150,150,0,22,22,0,32,32,0,8,8,0,02-06-2021 09:20,June 2 2021
+461,Theni,NRT hospital,50,28,22,20,19,1,20,2,18,10,7,3,3,0,3,28-05-2021 15:07,June 2 2021
+462,Coimbatore,Manu Hospital,36,36,0,30,30,0,0,0,0,6,6,0,6,6,0,14-05-2021 09:46,June 2 2021
+463,Chennai,"Aditya Kamaraja Hospital Pvt Ltd,Virugambakkam",15,14,1,10,10,0,3,2,1,2,2,0,0,0,0,12-05-2021 09:43,June 2 2021
+464,Salem,"Appu Venkatachalam Medical Research Centre (P) Ltd, Kattur",20,18,2,12,12,0,6,6,0,2,0,2,0,0,0,12-05-2021 10:23,June 2 2021
+465,Thiruchirappalli,Assured Best Care Hospital(P) Ltd (ABC Hospital) Annamalai Nagar,40,40,0,22,22,0,14,14,0,4,4,0,0,0,0,13-05-2021 08:38,June 2 2021
+466,Chengalpattu,"Christudas Orthopaedic Speciality Hospital,East Tambaram",25,25,0,9,9,0,14,14,0,2,2,0,2,2,0,12-05-2021 10:13,June 2 2021
+467,Thiruchirappalli,"City Medical Center, Thennur",25,13,12,10,3,7,10,7,3,5,3,2,0,0,0,02-06-2021 10:26,June 2 2021
+468,Coimbatore,"Coimbatore Child Trust Hospital,Singanallur",25,25,0,7,7,0,16,16,0,2,2,0,2,2,0,12-05-2021 09:54,June 2 2021
+469,Cuddalore,"Cuddalore Specialty Hospital,Manjakuppam",25,25,0,15,15,0,6,6,0,4,4,0,2,0,2,14-05-2021 22:30,June 2 2021
+470,Thiruchirappalli,"Decca Hospital, Thillai Nagar",22,20,2,17,17,0,3,1,2,2,2,0,2,0,2,13-05-2021 08:50,June 2 2021
+471,Thanjavur,"Dr.Vanchilingam Hospital Pvt Ltd,K.S Nagar",18,16,2,10,10,0,5,3,2,3,3,0,0,0,0,12-05-2021 15:11,June 2 2021
+472,Chennai,"Ezhil Hospital, Tondiarpet",25,22,3,12,12,0,13,10,3,0,0,0,0,0,0,12-05-2021 11:56,June 2 2021
+473,Coimbatore,"Fathima Hospital,Podanur",15,10,5,5,5,0,10,5,5,0,0,0,0,0,0,01-06-2021 15:52,June 2 2021
+474,Thiruchirappalli,"Jagadha Hospital,Thillai Nagar",20,16,4,14,14,0,4,0,4,2,2,0,0,0,0,13-05-2021 08:51,June 2 2021
+475,Thiruchirappalli,"Kanapathy Memorial Hospital, Musiri",24,10,14,14,4,10,4,0,4,6,6,0,2,0,2,13-05-2021 09:10,June 2 2021
+476,TheNilgiris,"Kotagiri Medical Fellowship Hospital,Kotagiri",16,8,8,8,3,5,6,4,2,2,1,1,1,0,1,11-05-2021 09:23,June 2 2021
+477,Ariyalur,"KVS Hospital Pvt Ltd,Valaja Nagaram",26,20,6,22,16,6,0,0,0,4,4,0,1,0,1,12-05-2021 16:31,June 2 2021
+478,Salem,"Malar Hospital,Vazhapadi",38,38,0,11,11,0,22,22,0,5,5,0,1,1,0,15-05-2021 11:12,June 2 2021
+479,Thiruchirappalli,"Max Care Hospital, Annamalai Nagar",23,11,12,10,5,5,10,3,7,3,3,0,1,1,0,01-06-2021 13:03,June 2 2021
+480,Chennai,"Metro Male Clinic a unit of Gunasekaran Hospitals Pvt Ltd,Porur",22,22,0,18,18,0,0,0,0,4,4,0,2,2,0,12-05-2021 09:31,June 2 2021
+481,Chennai,"Mount Specialty Hospital Pvt Ltd,Adambakkam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27-04-2021 16:20,June 2 2021
+482,Chennai,"New Ruthran Hospital,Aynavaram",15,15,0,10,10,0,5,5,0,0,0,0,0,0,0,11-05-2021 11:01,June 2 2021
+483,Perambalur,"Sanjjeev Hospital,Venkatesapuram",10,0,10,0,0,0,10,0,10,0,0,0,0,0,0,12-05-2021 13:14,June 2 2021
+484,Thoothukudi,"Sasi Hospital, Kovilpatti",25,22,3,21,18,3,0,0,0,4,4,0,0,0,0,02-06-2021 09:26,June 2 2021
+485,Salem,"Shri Hospitals, Shankar Nagar",55,54,1,40,40,0,5,4,1,10,10,0,2,0,2,12-05-2021 10:20,June 2 2021
+486,Chengalpattu,Shri Isari Velan Mission Hospital,25,15,10,6,6,0,16,7,9,3,2,1,3,2,1,12-05-2021 14:54,June 2 2021
+487,Thiruchirappalli,"Silverline Speciality Hospital, Thillai Nagar",25,15,10,12,10,2,10,2,8,3,3,0,3,3,0,02-06-2021 09:45,June 2 2021
+488,Thiruchirappalli,"SMS Hospital,Salai Road",41,35,6,21,19,2,14,12,2,6,4,2,3,3,0,13-05-2021 08:34,June 2 2021
+489,Ariyalur,"SR Hospital,Ariyalur",14,11,3,0,0,0,9,7,2,5,4,1,1,0,1,12-05-2021 10:07,June 2 2021
+490,Thiruchirappalli,Sri Kumaran Hospital Manapparai,30,25,5,10,10,0,14,9,5,6,6,0,2,0,2,13-05-2021 12:44,June 2 2021
+491,Karur,"Sri Rathina Hospital,Muthu Nagar",16,16,0,4,4,0,12,12,0,0,0,0,0,0,0,13-05-2021 08:53,June 2 2021
+492,Salem,"Sundaram Multispecialty Hospital,Salem",15,15,0,12,12,0,0,0,0,3,3,0,3,0,3,12-05-2021 17:38,June 2 2021
+493,Coimbatore,"V.G Hospital,Thudiyalur",20,20,0,6,6,0,12,12,0,2,2,0,0,0,0,12-05-2021 08:44,June 2 2021
+494,TheNilgiris,"Shiva Shakthi Hospital,Udagamandalam",20,20,0,4,4,0,16,16,0,0,0,0,0,0,0,28-05-2021 18:08,June 2 2021
+495,Chennai,"Be Well Hospitals, Ambattur",8,7,1,4,4,0,1,0,1,3,3,0,0,0,0,01-06-2021 17:26,June 2 2021
+496,Virudhunagar,"Chennai Hospital, Rajapalayam",7,7,0,4,4,0,2,2,0,1,1,0,1,1,0,12-05-2021 15:09,June 2 2021
+497,Virudhunagar,MSB Hospital,12,8,4,7,6,1,2,0,2,3,2,1,1,0,1,12-05-2021 15:59,June 2 2021
+498,Chennai,"New Life Hospital,Rajakilpakkam",10,9,1,10,9,1,0,0,0,0,0,0,3,1,2,07-05-2021 13:06,June 2 2021
+499,Tiruppur,"Sakthi Nursing Home,Tiruppur",45,45,0,27,27,0,15,15,0,3,3,0,0,0,0,12-05-2021 15:56,June 2 2021
+500,Virudhunagar,"Sri Ram Hospital - Sugasthala,Aruppukottai",15,1,14,5,0,5,8,1,7,2,0,2,1,0,1,14-05-2021 08:21,June 2 2021
+501,Chennai,"Kasthuri Hospital,West Tambaram",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30-04-2021 16:21,June 2 2021
+502,Tiruppur,OMS Hospital Tiruppur,63,63,0,10,10,0,45,45,0,8,8,0,2,2,0,12-05-2021 09:25,June 2 2021
+503,Tiruppur,Malarpriya Hospital,25,22,3,8,7,1,12,10,2,5,5,0,3,2,1,11-05-2021 16:49,June 2 2021
+504,Erode,"Veena hospital, nasiyanur",55,55,0,34,34,0,15,15,0,6,6,0,2,0,2,12-05-2021 16:06,June 2 2021
+505,Erode,"Abirami Kidney Care Dr.Thangavelu Hospital, Brough Road",50,50,0,0,0,0,43,43,0,7,7,0,3,3,0,12-05-2021 15:52,June 2 2021
+506,Thiruchirappalli,"Aiyshwariya Hospital, Woraiyur",12,12,0,4,4,0,2,2,0,6,6,0,1,0,1,21-05-2021 10:13,June 2 2021
+507,Chennai,"Anand Hospital,Manali",14,8,6,6,4,2,4,0,4,4,4,0,0,0,0,12-05-2021 13:52,June 2 2021
+508,Chennai,"Anbu Hospital, Velachery",18,18,0,7,7,0,8,8,0,3,3,0,0,0,0,12-05-2021 09:47,June 2 2021
+509,Chennai,"ARK Hospital, Velachery",17,15,2,3,2,1,14,13,1,0,0,0,0,0,0,12-05-2021 12:30,June 2 2021
+510,Chennai,"Arokya Hospital, West K.K Nagar",21,21,0,14,14,0,0,0,0,7,7,0,1,1,0,05-05-2021 09:21,June 2 2021
+511,Tiruvannamalai,"Arunai Hospital,Thenmathur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2021 19:51,June 2 2021
+512,Chennai,"AVS Cardiac Centre,Triplicane",15,13,2,5,5,0,4,2,2,6,6,0,1,1,0,02-06-2021 08:58,June 2 2021
+513,Chennai,"B.M Hospital,Nanganallur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2021 19:53,June 2 2021
+514,Erode,"Bewell Hospitals, Gandhiji Road",25,25,0,13,13,0,10,10,0,2,2,0,1,0,1,12-05-2021 16:04,June 2 2021
+515,Erode,"C.K.Hospital, Balasubbrayalu Street",30,30,0,10,10,0,20,20,0,0,0,0,0,0,0,12-05-2021 16:03,June 2 2021
+516,Chennai,"Care and Cure Speciality Hospital,Ayanavaram",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2021 19:55,June 2 2021
+517,Tiruvallur,"Chennai Health Foundation, Ambatur",32,30,2,26,26,0,4,2,2,2,2,0,0,0,0,22-05-2021 06:29,June 2 2021
+518,Chennai,"Chennai National Hospital,Ernavoor",15,7,8,13,5,8,0,0,0,2,2,0,2,2,0,12-05-2021 07:36,June 2 2021
+519,Erode,"CSI Hospital, Brough Road",50,40,10,15,10,5,30,25,5,5,5,0,0,0,0,12-05-2021 16:01,June 2 2021
+520,Karur,"Deepa Kannan Hospital, Muthu Nagar",20,20,0,7,7,0,12,12,0,1,1,0,1,0,1,19-05-2021 08:39,June 2 2021
+521,Chennai,"Dr.Shahs Clinic,T.Nagar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2021 20:05,June 2 2021
+522,Chennai,"DRJ Hospitals(P) Ltd,Kolathur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2021 20:07,June 2 2021
+523,Erode,"Erode Emergency Care Hospital, Veerappampalayam",45,42,3,30,30,0,15,12,3,0,0,0,0,0,0,12-05-2021 15:48,June 2 2021
+524,Chennai,"Eswar Medical Foundation, Kolathur",11,11,0,7,7,0,2,2,0,2,2,0,2,2,0,12-05-2021 17:00,June 2 2021
+525,Tirunelveli,"Gold Child & Chest Hospital,Vannarpettai",13,8,5,13,8,5,0,0,0,0,0,0,0,0,0,01-06-2021 07:15,June 2 2021
+526,Chennai,"K.C.Hospital, Avadi",20,20,0,16,16,0,0,0,0,4,4,0,2,2,0,11-05-2021 16:46,June 2 2021
+527,Salem,K.M Natraj's Nursing Home,20,18,2,10,10,0,5,3,2,5,5,0,2,2,0,12-05-2021 09:38,June 2 2021
+528,Cuddalore,"Kalyaan Speciality Hospital, Alpet",22,21,1,8,8,0,14,13,1,0,0,0,0,0,0,14-05-2021 09:10,June 2 2021
+529,Erode,"Kalyani Kidney Care Centre, Sampath Nagar Main Road",100,77,23,47,47,0,45,22,23,8,8,0,2,0,2,12-05-2021 16:08,June 2 2021
+530,Madurai,"Karunai Multispecialty Hospital, B.B Kulam",27,25,2,12,11,1,10,9,1,5,5,0,1,0,1,12-05-2021 08:28,June 2 2021
+531,Thiruchirappalli,"Kathir Hospital, Woraiyur",18,18,0,11,11,0,4,4,0,3,3,0,3,1,2,13-05-2021 09:11,June 2 2021
+532,Chennai,"Khm Hospial, Anna Nagar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2021 20:15,June 2 2021
+533,Kancheepuram,"KPP Multispeciality Hospital, Sholinganallur",20,16,4,17,16,1,3,0,3,0,0,0,0,0,0,12-05-2021 17:12,June 2 2021
+534,Chennai,KVT Health Centre,20,17,3,16,13,3,0,0,0,4,4,0,2,2,0,02-06-2021 09:57,June 2 2021
+535,Krishnagiri,"Lakshmi Hospital,Hosur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2021 20:18,June 2 2021
+536,Chennai,M/s Dr.V.BalajiDr.V.Seshiah Diabetes care and R Institute,18,18,0,10,10,0,4,4,0,4,4,0,2,2,0,08-05-2021 12:23,June 2 2021
+537,Chennai,"M/s K.M. Hospital, Vyarsarpadi",16,0,16,13,0,13,0,0,0,3,0,3,0,0,0,02-06-2021 09:12,June 2 2021
+538,Thanjavur,"Medway Hospital, Kumbakonam",25,20,5,10,10,0,14,10,4,1,0,1,2,0,2,12-05-2021 15:25,June 2 2021
+539,Tiruvallur,"MMRV Hospital, Azhinjivakkam",10,10,0,5,5,0,5,5,0,0,0,0,0,0,0,12-05-2021 08:26,June 2 2021
+540,Chennai,"MMRV Hospital, Mogappair West",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2021 20:23,June 2 2021
+541,Tirunelveli,"Muthu Hospital, Kulavanigarpuram",21,21,0,16,16,0,0,0,0,5,5,0,2,2,0,15-05-2021 08:12,June 2 2021
+542,Erode,"Nandha Medical College and Hospital, Pitchandampalayam",30,28,2,10,10,0,14,12,2,6,6,0,0,0,0,12-05-2021 15:50,June 2 2021
+543,Karur,"Nathan Hospital, Anna Arch",14,14,0,10,10,0,0,0,0,4,4,0,0,0,0,12-05-2021 16:29,June 2 2021
+544,Chennai,"NRG Speciality Hospitals, Ramapuram",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2021 20:29,June 2 2021
+545,Erode,"Ortho Life Hospital, Anusha Hospital Complex",20,20,0,10,10,0,6,6,0,4,4,0,3,0,3,12-05-2021 15:41,June 2 2021
+546,Kancheepuram,"PCMC Hospital, Pallavaram",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2021 20:31,June 2 2021
+547,Chennai,"Pradeep Nursing Home, Puzuthivakkam",10,10,0,6,6,0,0,0,0,4,4,0,1,1,0,11-05-2021 09:35,June 2 2021
+548,Erode,"Senthil Multi Speciality Hospital, Perundurai Road",90,82,8,35,35,0,52,44,8,3,3,0,2,2,0,12-05-2021 15:56,June 2 2021
+549,Chennai,"SenthilPriya Hospital,Teynampet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2021 20:33,June 2 2021
+550,Krishnagiri,"Shree Arunachala Hospital,Krishnagiri",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2021 20:34,June 2 2021
+551,Chennai,"Sri Pooja Maternity Clinic, Kodungaiyur",5,4,1,4,4,0,1,0,1,0,0,0,0,0,0,12-05-2021 07:57,June 2 2021
+552,Tiruvallur,"Sri Sundharsanam Hospital, Avadi",19,19,0,15,15,0,0,0,0,4,4,0,1,1,0,13-05-2021 09:30,June 2 2021
+553,Chennai,"Srushti Hospital, Ramapuram",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2021 20:37,June 2 2021
+554,Krishnagiri,"St.Peter’s Medical College Hospital & Research Institute, Hosur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2021 20:38,June 2 2021
+555,Thiruchirappalli,"Sugam Hospital, Manapparai",23,23,0,14,14,0,5,5,0,4,4,0,1,0,1,13-05-2021 15:23,June 2 2021
+556,Chennai,"Sugan Hospital, Neelangarai",20,20,0,15,15,0,3,3,0,2,2,0,0,0,0,13-05-2021 07:05,June 2 2021
+557,Krishnagiri,"Surya Multispeciality Hospital, Hosur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2021 20:41,June 2 2021
+558,Chennai,"Swaram Medicare &Research Centre Pvt Ltd, Sholinganallur",20,20,0,19,19,0,0,0,0,1,1,0,0,0,0,09-05-2021 15:06,June 2 2021
+559,Chennai,"Trustlife Medical Centre, Panaiyur",20,16,4,6,6,0,12,8,4,2,2,0,0,0,0,14-05-2021 13:36,June 2 2021
+560,Namakkal,"Varun Hospital, Rasipuram",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2021 20:43,June 2 2021
+561,Chennai,"Vasantha Hospital, Thiruvottiyur",10,9,1,5,5,0,3,2,1,2,2,0,0,0,0,10-05-2021 14:56,June 2 2021
+562,Kanyakumari,"Vijayakumar Hospital,Swamiyarmadam",22,22,0,12,12,0,5,5,0,5,5,0,3,0,3,12-05-2021 15:18,June 2 2021
+563,Kanyakumari,"William Hospital,Nagercoil",10,9,1,9,8,1,0,0,0,1,1,0,1,0,1,31-05-2021 18:38,June 2 2021
+564,Chennai,"Singhvi Health Center, Mint Street",15,15,0,10,10,0,5,5,0,0,0,0,0,0,0,14-05-2021 15:27,June 2 2021
+565,Madurai,"Hannah Joseph Hospital Pvt Ltd, Chinthamani",75,68,7,23,23,0,35,28,7,17,17,0,10,10,0,13-05-2021 16:37,June 2 2021
+566,Chennai,"M/s Apollo Hospitals, Tondiarpet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03-05-2021 14:05,June 2 2021
+567,Chennai,"Anjakha Hospital, Madipakkam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03-05-2021 14:08,June 2 2021
